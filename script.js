@@ -32,7 +32,7 @@ var coin = {
 
 
 function tosses() {
-    for (let i = 0; i < 20; i++) {
+    for (let iThrows = 0; iThrows < 20; iThrows++) {
         console.log(coin.flip(), coin.toString());
         const results = document.getElementById("results")
         const header = document.createElement("h1");
