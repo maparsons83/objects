@@ -1,0 +1,17 @@
+img {
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+}
+
+body {
+    height: 800px;
+}
+
+.heads {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQgy1DvI_b_tiBqcvspZpuH1eVjt92SpLNjX-39C_MjiKOWoYqgw")
+}
+
+.tails {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW13Ttk3IYwsuwcyIEe4Ic1Crgc0YGRo4Im4ofC7O5F9P25UTE");
+}
